@@ -3,7 +3,7 @@ package TestCases;
 import com.aventstack.extentreports.Status;
 import org.testng.annotations.Test;
 
-public class MyExtentTests extends TestTemplate {
+public class MyExtentTest extends TestTemplate {
 
     @Test
     public void m1() {
